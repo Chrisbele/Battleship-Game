@@ -116,7 +116,6 @@ public abstract class Ship
                       hasShip = true;
                    }
                 }
-                  
                    if(myBoard.getAdjacentTiles(row,col,whereToGo,size))
                    {
                        hasShipNear = true;
@@ -165,8 +164,6 @@ public abstract class Ship
         int row1 = rand.nextInt(7);
         int col1 = rand.nextInt(7);
         
-        
-        
        
         row = row1;
         col = col1;
@@ -193,26 +190,4 @@ public abstract class Ship
         
 
  }
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-
-     
-     
-     
-     
      
