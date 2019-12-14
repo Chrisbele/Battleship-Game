@@ -12,7 +12,7 @@ PURPOSE OF PROJECT: University Project
 DATE: May 2018
 HOW TO START THIS PROJECT: To run this game 
 you will need BlueJ.Just open the project and 
-run theman at the class "Game".
+run the main at the class "Game".
 
 
 
