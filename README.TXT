@@ -1,12 +1,19 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+This was a project I made at my second semester in University.When the game starts
+the player can place the ships by himself or he has the option to let the computer
+place them randomly.During the game you play against the computer and at the beginning 
+of every round it asks from the user to give coordinates about the next hit.In every user
+input it checks if the input is valid and it prints the appropriate message.Finally it prints
+a statistics board.
+------------------------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Battleship Game
+PURPOSE OF PROJECT: University Project
+DATE: May 2018
+HOW TO START THIS PROJECT: To run this game 
+you will need BlueJ.Just open the project and 
+run theman at the class "Game".
+
+
+
+
